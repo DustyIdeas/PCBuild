@@ -1,4 +1,4 @@
-# Order Breakdown
+### Order Breakdown
 
 1. **[MSI Gaming GeForce RTX 4060](https://www.amazon.com/gp/product/B0C8BPW1SP/ref=ox_sc_act_title_1?smid=ATVPDKIKX0DER&psc=1)**
    - **Price**: $293.00
@@ -42,7 +42,7 @@
      - Requires a robust cooling solution for overclocking
 
 5. **[SAMSUNG Odyssey G50A 27-Inch Monitor](https://www.amazon.com/gp/product/B096YMQ3C8/ref=ox_sc_act_title_5?smid=A1KPWUFM4I9NL0&psc=1)**
-   - **Price**: $245.99
+   - **Price**: $245.99 each
    - **Pros**:
      - High resolution (1440p) with 165Hz refresh rate
      - G-Sync compatibility for smooth gaming
@@ -61,12 +61,18 @@
      - Not the lowest latency available
      - May need manual tuning to achieve advertised speeds
 
-## Subtotal
+### Subtotal
 - **Subtotal**: $1,021.84
 
-## Estimated Tax Calculation
+### Estimated Tax Calculation
 - **Estimated Tax Rate**: 8%
 - **Estimated Tax Amount**: $1,021.84 * 0.08 = $81.75
 
-## Estimated Total
-- **Estimated Total**: $1,021.84 + $81.75 = $1,103.59
+### Estimated Total
+- **Estimated Total**: $1,021.84 + $81.75 = **$1,103.59**
+
+### Total with 2 Monitors
+- **Price for 2 Monitors**: 2 * $245.99 = $491.98
+- **Updated Subtotal (including 2 monitors)**: $1,021.84 + $491.98 = **$1,513.82**
+- **Estimated Tax Amount for 2 Monitors**: $1,513.82 * 0.08 = $121.10
+- **Estimated Total with 2 Monitors**: $1,513.82 + $121.10 = **$1,634.92**
